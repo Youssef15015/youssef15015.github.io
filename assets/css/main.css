@@ -3244,6 +3244,7 @@ input, select, textarea {
 					}
 
 			#banner > .inner .content {
+	
 				display: -moz-flex;
 				display: -webkit-flex;
 				display: -ms-flex;
@@ -3252,7 +3253,7 @@ input, select, textarea {
 				-webkit-align-items: center;
 				-ms-align-items: center;
 				align-items: center;
-				margin: 0 0 2em 0;
+				margin: 0 0 2em 0em;
 			}
 
 				#banner > .inner .content > * {
